@@ -17,3 +17,5 @@ Proyek ini bertujuan untuk mengukur tingkat kepuasan mahasiswa terhadap layanan 
 1. Clone repositori ini.
 2. Pastikan library `dplyr`, `psych`, dan `ggplot2` sudah terinstall.
 3. Jalankan `script_analisis.R`.
+
+![Grafik Analisis](image.png)
